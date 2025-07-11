@@ -1,0 +1,57 @@
+.rating{
+
+      font-family: 'Raleway', sans-serif;
+      display: flex;
+      justify-content: center;
+      padding: 150px;
+     
+    }
+
+    .box {
+      background-color:rgba(78, 71, 255, 0.1);
+      border-radius: 20px;
+      padding: 80px 50px;
+      text-align: center;
+      width: 1140px;
+      height: 305;
+     
+      justify-content: space-around;
+      
+     
+    }
+
+    .box h2 {
+      
+          text-align: center;
+    
+      
+    }
+
+    .stat {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 40px;
+    }
+
+    .stat-number {
+      font-size: 80px;
+      font-weight: 700;
+      color: #4d4dff;
+    }
+
+    .stat-label {
+      margin-top: 8px;
+      font-size: 14px;
+      color: #777;
+    }
+.etaihobe{
+
+
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+   
+
