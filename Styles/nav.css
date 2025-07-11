@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,760;1,14..32,760&display=swap');
+
+
+
+
+
+nav a {
+
+    
+    text-decoration: none;
+    color: 4E47FF;
+    font: inter;
+    font-size: 34px;
+    font-family: "Inter", sans-serif;
+    font-style: bold;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    
+
+}

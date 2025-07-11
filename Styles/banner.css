@@ -1,0 +1,48 @@
+header{
+background-repeat: no-repeat;
+height: 698px;
+background-image: url(back.jpg.png);
+background-size: cover; 
+background-position: center;
+
+
+
+
+}
+
+.banner{
+
+
+ display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Raleway', sans-serif;
+      color: #000;
+      text-align: center;
+  
+
+}
+
+.cool{
+    font-size: 65px;
+      font-weight: 700;
+      width: 905px;
+      height: 152px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.focus {
+    width: 174px;          
+    height: 48px;           
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    background-color: aqua;
+    color: #000;
+    border: none;
+  border-radius: 8px;
+
+}
