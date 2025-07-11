@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+.get-in-form{
+    margin-bottom: 150px;
+}
+
 .get-in-form h1{
     font-size: 97px;
     width: 50%;
@@ -24,3 +28,4 @@
     padding: 10px;
     border-radius: 10px;
 }
+

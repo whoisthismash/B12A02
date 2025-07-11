@@ -54,5 +54,13 @@ font-weight: bolder;
       border: none;
       border-radius: 8px;
       cursor: pointer;
+      transition-duration: 250ms;
      
+}
+
+.herobt:hover{
+    background-color: transparent;
+    color: #4E47FF;
+    border: #4E47FF;
+    border-style: solid;
 }
